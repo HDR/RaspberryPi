@@ -3,7 +3,7 @@ Random code for RaspberryPi related stuff
 
 
 ## [cpuled.py](https://github.com/MrHDR/RaspberryPi/blob/master/cpuled.py) - Currently Not Working
-Utilizes [Blinkt](https://thepihut.com/products/blinkt) to display CPU Temperature in 8 stages.
+Utilizes [Blinkt](https://thepihut.com/products/blinkt) to display CPU Temperature in 8 stages using 8 RGB Led's
 
 Example:
 
