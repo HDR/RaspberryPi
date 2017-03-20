@@ -11,7 +11,7 @@ set_brightness(0.1)
 
 while True:
  if CPU_temp < 10:
-  set_pixel(0,greenPix)
+  set_pixel(0,0,255,0)
   show()
  if CPU_temp > 10 & CPU_temp < 20:
   set_pixel(0,0,255,0)
