@@ -7,11 +7,6 @@ def getCPUtemp():
     res = os.popen('vcgencmd measure_temp').readline()
     return(res.replace("temp=","").replace("'C\n",""))
 CPU_temp = int(float(getCPUtemp()))
-
-greenPix = 0,255,0
-orangePix = 255,102,0
-redPix = 255,0,0
-
 set_brightness(0.1)
 
 while True:
