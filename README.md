@@ -3,7 +3,12 @@ Random code for RaspberryPi related stuff
 
 
 ## cpuled.py
-Utilizes [Blinkt](https://thepihut.com/products/blinkt) to display CPU Temperature in 8 stages, 3 Green, 3 Orange 2 Red.
+Utilizes [Blinkt](https://thepihut.com/products/blinkt) to display CPU Temperature in 8 stages.
+
+Example:
+
+![Leds](http://i.imgur.com/63E4f37.png)
+
 
 1 Led = Below 10 Celcius
 
