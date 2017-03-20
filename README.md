@@ -12,7 +12,7 @@ Example:
 
 1 Led = Below 10 Celcius
 
-2 Led = Between 10 & 20 Celcius
+2 Leds = Between 10 & 20 Celcius
 
 3 Leds = Between 20 & 30 Celcius
 
