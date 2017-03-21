@@ -1,4 +1,4 @@
-# RaspberryPi Crap
+# RaspberryPi Scripts & Programs
 Random code for RaspberryPi related stuff
 
 
