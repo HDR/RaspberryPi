@@ -25,3 +25,7 @@ Example:
 7 Leds = Between 60 & 70 Celcius
 
 8 Leds = Above 70 Celcius
+
+## [RsInstall.sh](https://github.com/MrHDR/RaspberryPi/raw/master/RsInstall.sh)
+Runescape Installer for the Raspberry Pi
+Downloads the files you need and launchers to quickly launch RS3 Or OSRS from the desktop (Raspbian)
