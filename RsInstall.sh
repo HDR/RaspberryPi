@@ -8,3 +8,8 @@ cd $HOME/.jagex/runescape/bin
 wget https://github.com/MrHDR/RaspberryPi/blob/master/jagexappletviewer.jar?raw=true
 cd $HOME/.jagex/runescape/images
 wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/jagexappletviewer.png
+cd $HOME/Desktop
+wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/Rs3Launcher.sh
+wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/OSRSLauncher.sh
+chmod 777 ./Rs3Launcher.sh
+chmod 777 ./OSRSLauncher.sh
