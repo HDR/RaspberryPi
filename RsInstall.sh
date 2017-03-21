@@ -1,4 +1,7 @@
-sudo apt-get install openjdk-7-jdk
+wget -O - https://content.runescape.com/downloads/ubuntu/runescape.gpg.key | apt-key add -
+mkdir -p /etc/apt/sources.list.d
+echo "deb https://content.runescape.com/downloads/ubuntu trusty non-free" > /etc/apt/sources.list.d/runescape.list
+apt-get update
 mkdir /home/pi/.jagex_cache_32
 mkdir /home/pi/.jagex_cache_32/runescape
 mkdir /home/pi/.jagex
