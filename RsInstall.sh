@@ -5,7 +5,7 @@ mkdir $HOME/.jagex/runescape
 mkdir $HOME/.jagex/runescape/bin
 mkdir $HOME/.jagex/runescape/images
 cd $HOME/.jagex/runescape/bin
-wget https://github.com/MrHDR/RaspberryPi/blob/master/jagexappletviewer.jar?raw=true
+wget https://github.com/MrHDR/RaspberryPi/raw/master/jagexappletviewer.jar
 cd $HOME/.jagex/runescape/images
 wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/jagexappletviewer.png
 cd $HOME/Desktop
