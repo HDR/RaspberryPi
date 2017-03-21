@@ -38,3 +38,11 @@ Downloads the files you need and launchers to quickly launch RS3 Or OSRS from th
 wget https://github.com/MrHDR/RaspberryPi/raw/master/RsInstall.sh
 sudo sh ./RsInstall.sh
 ```
+
+Note:
+If shortcuts are not added to your desktop you can add them manually by writing the following command in the terminal
+```
+cd $HOME/Desktop
+wget https://github.com/MrHDR/RaspberryPi/raw/master/Rs3.desktop
+wget https://github.com/MrHDR/RaspberryPi/raw/master/OSRS.desktop
+```
