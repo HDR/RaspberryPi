@@ -1,0 +1,7 @@
+Type=Application
+Encoding=UTF-8
+Name=Oldschool Runescape
+Comment=OSRS Launcher
+Exec=java -Xmx512m -Djava.class.path=/home/pi/.jagex/runescape/bin/jagexappletviewer.jar -Dcom.jagex.config="http://oldschool.runescape.com/jav_config.ws" jagexappletviewer /home/pi/.jagex/runescape/images
+Icon=/home/pi/.jagex/runescape/images/jagexappletviewer.png
+Terminal=false
