@@ -31,7 +31,7 @@ Runescape Installer for the Raspberry Pi
 
 Warning: Rs3 Will most likely crash on launch, OSRS should work on a Raspberry Pi 3B
 
-Downloads the files you need and launchers to quickly launch RS3 Or OSRS from the desktop (Raspbian Full Only)
+Downloads the files and launchers to quickly launch RS3 Or OSRS from the desktop (Raspbian Full Only)
 
 ### Usage
 ```
