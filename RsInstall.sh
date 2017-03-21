@@ -1,3 +1,4 @@
+sudo apt-get install openjdk-7-jre
 mkdir /home/pi/.jagex_cache_32
 mkdir /home/pi/.jagex_cache_32/runescape
 mkdir /home/pi/.jagex
