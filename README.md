@@ -7,7 +7,7 @@ Utilizes [Blinkt](https://thepihut.com/products/blinkt) to display CPU Temperatu
 
 Example:
 
-![Leds](http://i.imgur.com/63E4f37.png)
+![Leds](http://i.imgur.com/GHo3ujM.png)
 
 
 1 Led = Below 10 Celcius
