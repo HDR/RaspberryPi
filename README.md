@@ -29,6 +29,8 @@ Example:
 ## [RsInstall.sh](https://github.com/MrHDR/RaspberryPi/raw/master/RsInstall.sh)
 Runescape Installer for the Raspberry Pi
 
+Warning: This has only been tested on a Raspberry Pi 3B
+
 Downloads the files you need and launchers to quickly launch RS3 Or OSRS from the desktop (Raspbian Full Only)
 
 ### Usage
