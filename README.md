@@ -36,5 +36,5 @@ Downloads the files you need and launchers to quickly launch RS3 Or OSRS from th
 ### Usage
 ```
 wget https://github.com/MrHDR/RaspberryPi/raw/master/RsInstall.sh
-sudo ./RsInstall.sh
+sudo sh ./RsInstall.sh
 ```
