@@ -13,29 +13,29 @@ while True:
  if CPU_temp < 10:
   set_pixel(0,0,255,0)
   show()
- if CPU_temp > 10 & CPU_temp < 20:
+ if CPU_temp > 10 and CPU_temp < 20:
   set_pixel(0,0,255,0)
   set_pixel(1,0,255,0)
   show()
- if CPU_temp > 20 & CPU_temp < 30:
+ if CPU_temp > 20 and CPU_temp < 30:
   set_pixel(0,0,255,0)
   set_pixel(1,0,255,0)
   set_pixel(2,0,255,0)
   show()
- if CPU_temp > 30 & CPU_temp < 40:
+ if CPU_temp > 30 and CPU_temp < 40:
   set_pixel(0,0,255,0)
   set_pixel(1,0,255,0)
   set_pixel(2,0,255,0)
   set_pixel(3,255,102,0)
   show()
- if CPU_temp > 40 & CPU_temp < 50:
+ if CPU_temp > 40 and CPU_temp < 50:
   set_pixel(0,0,255,0)
   set_pixel(1,0,255,0)
   set_pixel(2,0,255,0)
   set_pixel(3,255,102,0)
   set_pixel(4,255,102,0)
   show()
- if CPU_temp > 50 & CPU_temp < 60:
+ if CPU_temp > 50 and CPU_temp < 60:
   set_pixel(0,0,255,0)
   set_pixel(1,0,255,0)
   set_pixel(2,0,255,0)
@@ -43,7 +43,7 @@ while True:
   set_pixel(4,255,102,0)
   set_pixel(5,255,102,0)
   show()
- if CPU_temp > 60 & CPU_temp < 70:
+ if CPU_temp > 60 and CPU_temp < 70:
   set_pixel(0,0,255,0)
   set_pixel(1,0,255,0)
   set_pixel(2,0,255,0)
