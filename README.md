@@ -42,3 +42,26 @@ sudo rm RsInstall.sh
 #### If you do not want to run my script and would rather run the client manually you will need the following:
 
 The [Legacy Runescape Windows Client](http://www.runescape.com/downloads/runescape.msi?13042016) & [lessmsi](https://github.com/activescott/lessmsi)
+
+Download the Windows Java client and lessmsi, open runescape.msi in lessmsi and extract jagexappletviewer.jar & jagexappletviewer.png
+
+make the following folders under /home/pi
+
+- .jagex_cache_32 & .jagex_cache_32/runescape
+- .jagex & .jagex/runescape & .jagex/runescape/bin & - .jagex/runescape/images
+
+Put jagexappletviewer.jar in .jagex/runescape/bin
+
+Put jagexappletviewer.png in ./jagex/runescape/images
+
+you can now run RS3 or OSRS with command line, using the following line
+
+OldSchool:
+```
+java -Xmx1024m -Djava.class.path=/home/pi/.jagex/runescape/bin/jagexappletviewer.jar -Dcom.jagex.config="http://oldschool.runescape.com/jav_config.ws" jagexappletviewer /home/pi/.jagex/runescape/images
+```
+
+Runescape 3:
+```
+java -Xmx1024m -Djava.class.path=/home/pi/.jagex/runescape/bin/jagexappletviewer.jar -Dcom.jagex.config="http://www.runescape.com/k=3/l=en/jav_config.ws" jagexappletviewer /home/pi/.jagex/runescape/images
+```
