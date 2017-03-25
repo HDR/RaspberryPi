@@ -47,8 +47,12 @@ Download the Windows Java client and lessmsi, open runescape.msi in lessmsi and 
 
 make the following folders under /home/pi
 
-- .jagex_cache_32 & .jagex_cache_32/runescape
-- .jagex & .jagex/runescape & .jagex/runescape/bin & - .jagex/runescape/images
+- .jagex_cache_32
+- .jagex_cache_32/runescape
+- .jagex
+- .jagex/runescape
+- .jagex/runescape/bin
+- .jagex/runescape/images
 
 Put jagexappletviewer.jar in .jagex/runescape/bin
 
