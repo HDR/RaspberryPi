@@ -39,3 +39,4 @@ wget https://github.com/MrHDR/RaspberryPi/raw/master/RsInstall.sh
 sudo sh ./RsInstall.sh
 sudo rm RsInstall.sh
 ```
+#### If you do not want to run my script and would rather run the client manually you can do the following:
