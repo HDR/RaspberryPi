@@ -2,7 +2,7 @@
 Random code for RaspberryPi related stuff
 
 
-## [cpuled.py](https://github.com/MrHDR/RaspberryPi/blob/master/cpuled.py)
+## [cpuled.py](https://github.com/MrHDR/RaspberryPi/blob/master/cpuled.py) Does currently not update led's when temp changes.
 Utilizes [Blinkt](https://thepihut.com/products/blinkt) to display CPU Temperature in 8 stages using 8 RGB Led's
 
 Example:
