@@ -41,8 +41,4 @@ sudo rm RsInstall.sh
 ```
 #### If you do not want to run my script and would rather run the client manually you will need the following:
 
-The [Legacy Runescape Windows Client](http://www.runescape.com/downloads/runescape.msi?13042016)
-
-&
-
-[lessmsi](https://github.com/activescott/lessmsi)
+The [Legacy Runescape Windows Client](http://www.runescape.com/downloads/runescape.msi?13042016) & [lessmsi](https://github.com/activescott/lessmsi)
