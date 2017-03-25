@@ -43,7 +43,7 @@ sudo rm RsInstall.sh
 
 - The [Legacy Runescape Windows Client](http://www.runescape.com/downloads/runescape.msi?13042016)
 - [lessmsi](https://github.com/activescott/lessmsi)
-- oracle-java8-jdk (sudo apt-get install oracle-java8-jdk)
+- The oracle-java8-jdk Package
 
 Download the Windows Java client and lessmsi, open runescape.msi in lessmsi and extract jagexappletviewer.jar & jagexappletviewer.png
 
@@ -70,4 +70,10 @@ java -Xmx1024m -Djava.class.path=/home/pi/.jagex/runescape/bin/jagexappletviewer
 Runescape 3:
 ```
 java -Xmx1024m -Djava.class.path=/home/pi/.jagex/runescape/bin/jagexappletviewer.jar -Dcom.jagex.config="http://www.runescape.com/k=3/l=en/jav_config.ws" jagexappletviewer /home/pi/.jagex/runescape/images
+```
+
+Geting errors? try running the following commands
+```
+sudo apt-get update
+sudo apt-get install oracle-java8-jdk
 ```
