@@ -13,3 +13,4 @@ wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/jagexappletviewe
 cd /home/pi/Desktop
 wget https://github.com/MrHDR/RaspberryPi/raw/master/Rs3.desktop
 wget https://github.com/MrHDR/RaspberryPi/raw/master/OSRS.desktop
+sudo rm RsInstall.sh
