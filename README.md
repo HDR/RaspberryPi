@@ -41,7 +41,9 @@ sudo rm RsInstall.sh
 ```
 #### If you do not want to run my script and would rather run the client manually you will need the following:
 
-The [Legacy Runescape Windows Client](http://www.runescape.com/downloads/runescape.msi?13042016) & [lessmsi](https://github.com/activescott/lessmsi)
+- The [Legacy Runescape Windows Client](http://www.runescape.com/downloads/runescape.msi?13042016)
+- [lessmsi](https://github.com/activescott/lessmsi)
+- oracle-java8-jdk (sudo apt-get install oracle-java8-jdk)
 
 Download the Windows Java client and lessmsi, open runescape.msi in lessmsi and extract jagexappletviewer.jar & jagexappletviewer.png
 
