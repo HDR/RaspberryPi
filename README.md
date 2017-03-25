@@ -60,7 +60,7 @@ Put jagexappletviewer.jar in .jagex/runescape/bin
 
 Put jagexappletviewer.png in ./jagex/runescape/images
 
-you can now run RS3 or OSRS with command line, using the following line
+you can now run RS3 or OSRS with command line, using the following commands
 
 OldSchool:
 ```
