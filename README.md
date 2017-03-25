@@ -39,4 +39,10 @@ wget https://github.com/MrHDR/RaspberryPi/raw/master/RsInstall.sh
 sudo sh ./RsInstall.sh
 sudo rm RsInstall.sh
 ```
-#### If you do not want to run my script and would rather run the client manually you can do the following:
+#### If you do not want to run my script and would rather run the client manually you will need the following:
+
+The [Legacy Runescape Windows Client](http://www.runescape.com/downloads/runescape.msi?13042016)
+
+&
+
+[lessmsi](https://github.com/activescott/lessmsi)
