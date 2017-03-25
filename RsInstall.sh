@@ -1,4 +1,5 @@
 sudo apt-get update
+#sudo apt-get install oracle-java8-jdk
 mkdir /home/pi/.jagex_cache_32
 mkdir /home/pi/.jagex_cache_32/runescape
 mkdir /home/pi/.jagex
