@@ -1,6 +1,10 @@
 # RaspberryPi Scripts & Programs
 Random code for RaspberryPi related stuff
 
+## [ASF_Installer.sh](https://github.com/MrHDR/RaspberryPi/raw/master/ArchiSteamFarm/ASF_Installer.sh)
+[ArchiSteamFarm](https://github.com/JustArchi/ArchiSteamFarm) Installer for Raspbian Jessie Full
+
+Installs ArchiSteamFarm on your Raspberry pi.
 
 ## [RsInstall.sh](https://github.com/MrHDR/RaspberryPi/raw/master/RsInstall.sh)
 Runescape Installer for the Raspberry Pi
