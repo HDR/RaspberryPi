@@ -4,5 +4,5 @@ Encoding=UTF-8
 Name=Archi Steam Farm Configurator
 Comment=Archi Steam Farm Configurator
 Exec=mono /home/pi/ArchiSteamFarm/ASF-ConfigGenerator.exe
-Icon=/home/pi/ArchiSteamFarm/steam.png
+Icon=/home/pi/ArchiSteamFarm/ASF.png
 Terminal=True
