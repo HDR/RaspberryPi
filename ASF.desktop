@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Archi Steam Farm
+Comment=Archi Steam Farm launcher
+Exec=lxterminal --command "mono /home/pi/ArchiSteamFarm/ASF.exe"
+Icon=/home/pi/ArchiSteamFarm/steam.png
+Terminal=false
