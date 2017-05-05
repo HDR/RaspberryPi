@@ -4,7 +4,7 @@ Random code for RaspberryPi related stuff
 ## [ASF_Installer.sh](https://github.com/MrHDR/RaspberryPi/raw/master/ArchiSteamFarm/ASF_Installer.sh)
 [ArchiSteamFarm](https://github.com/JustArchi/ArchiSteamFarm) Installer for Raspbian Jessie Full
 
-Installs ArchiSteamFarm and adds desktop icons on your Raspberry pi.
+Installs ArchiSteamFarm(V2.3.1.3) and adds desktop icons on your Raspberry pi.
 
 ### Usage
 ```
