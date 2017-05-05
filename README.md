@@ -6,6 +6,15 @@ Random code for RaspberryPi related stuff
 
 Installs ArchiSteamFarm on your Raspberry pi.
 
+### Usage
+```
+wget https://github.com/MrHDR/RaspberryPi/raw/master/ArchiSteamFarm/ASF_Installer.sh
+sudo sh ./ASFInstaller.sh
+sudo rm ./ASFInstaller.sh
+```
+
+Please note that it might take anything from 10-45 minutes to install.
+
 ## [RsInstall.sh](https://github.com/MrHDR/RaspberryPi/raw/master/RsInstall.sh)
 Runescape Installer for the Raspberry Pi
 
