@@ -11,4 +11,4 @@ unzip ASF.zip
 cd /home/pi/Desktop
 wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/ArchiSteamFarm/ASFC.desktop
 wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/ArchiSteamFarm/ASF.desktop
-sudo chmod 777 /home/pi/ArchiSteamFarm
+sudo chmod -R 777 /home/pi/ArchiSteamFarm
