@@ -8,6 +8,7 @@ cd ArchiSteamFarm
 wget https://github.com/MrHDR/RaspberryPi/raw/master/ArchiSteamFarm/ASF.png
 wget https://github.com/JustArchi/ArchiSteamFarm/releases/download/2.3.1.3/ASF.zip
 unzip ASF.zip
+sudo rm ASF.zip
 cd /home/pi/Desktop
 wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/ArchiSteamFarm/ASFC.desktop
 wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/ArchiSteamFarm/ASF.desktop
