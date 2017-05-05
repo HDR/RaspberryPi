@@ -9,8 +9,8 @@ Installs ArchiSteamFarm and adds desktop icons on your Raspberry pi.
 ### Usage
 ```
 wget https://github.com/MrHDR/RaspberryPi/raw/master/ArchiSteamFarm/ASF_Installer.sh
-sudo sh ./ASFInstaller.sh
-sudo rm ./ASFInstaller.sh
+sudo sh ./ASF_Installer.sh
+sudo rm ./ASF_Installer.sh
 ```
 
 Please note that it might take anything from 10-45 minutes to install.
