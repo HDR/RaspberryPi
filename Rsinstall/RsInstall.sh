@@ -7,10 +7,10 @@ mkdir /home/pi/.jagex/runescape
 mkdir /home/pi/.jagex/runescape/bin
 mkdir /home/pi/.jagex/runescape/images
 cd /home/pi/.jagex/runescape/bin
-wget https://github.com/MrHDR/RaspberryPi/raw/master/jagexappletviewer.jar
+wget https://github.com/MrHDR/RaspberryPi/raw/master/Rsinstall/jagexappletviewer.jar
 cd /home/pi/.jagex/runescape/images
-wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/jagexappletviewer.png
-wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/jagexappletvieweros.png
+wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/Rsinstall/jagexappletviewer.png
+wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/Rsinstall/jagexappletvieweros.png
 cd /home/pi/Desktop
 wget https://github.com/MrHDR/RaspberryPi/raw/master/Rs3.desktop
 wget https://github.com/MrHDR/RaspberryPi/raw/master/OSRS.desktop
