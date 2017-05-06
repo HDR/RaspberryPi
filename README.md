@@ -24,7 +24,7 @@ Downloads the files and launchers to quickly launch RS3 Or OSRS from the desktop
 
 ### Usage
 ```
-wget https://github.com/MrHDR/RaspberryPi/raw/master/RsInstall.sh
+wget https://github.com/MrHDR/RaspberryPi/raw/master/Rsinstall/RsInstall.sh
 sudo sh ./RsInstall.sh
 sudo rm RsInstall.sh
 ```
@@ -66,7 +66,7 @@ Geting errors? try running the following commands
 sudo apt-get update
 sudo apt-get install oracle-java8-jdk
 ```
-## [cpuled.py](https://github.com/MrHDR/RaspberryPi/blob/master/cpuled.py) (Does currently not update led's when temp changes.)
+## [cpuled.py](https://github.com/MrHDR/RaspberryPi/raw/master/Blinkt/cpuled.py) (Does currently not update led's when temp changes.)
 Utilizes [Blinkt](https://thepihut.com/products/blinkt) to display CPU Temperature in 8 stages using 8 RGB Led's
 
 Example:
