@@ -15,7 +15,7 @@ sudo rm ./ASF_Installer.sh
 
 Please note that it might take anything from 10-45 minutes to install.
 
-## [RsInstall.sh](https://github.com/MrHDR/RaspberryPi/raw/master/RsInstall.sh)
+## [RsInstall.sh](https://github.com/MrHDR/RaspberryPi/raw/master/Rsinstall/RsInstall.sh)
 Runescape Installer for the Raspberry Pi
 
 Warning: Rs3 will probably not work.(Limited Ram) OSRS However, will run on a Raspberry Pi 3B
