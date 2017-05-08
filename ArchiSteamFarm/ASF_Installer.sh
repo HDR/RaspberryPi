@@ -12,4 +12,5 @@ sudo rm ASF.zip
 cd /home/pi/Desktop
 wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/ArchiSteamFarm/ASFC.desktop
 wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/ArchiSteamFarm/ASF.desktop
+wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/ArchiSteamFarm/updater.sh
 sudo chmod -R 777 /home/pi/ArchiSteamFarm
