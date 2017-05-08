@@ -6,7 +6,7 @@ cd /home/pi/
 mkdir ArchiSteamFarm
 cd ArchiSteamFarm
 wget https://github.com/MrHDR/RaspberryPi/raw/master/ArchiSteamFarm/ASF.png
-wget https://github.com/JustArchi/ArchiSteamFarm/releases/download/2.3.1.3/ASF.zip
+wget https://github.com/JustArchi/ArchiSteamFarm/releases/download/2.3.1.4/ASF.zip
 unzip ASF.zip
 sudo rm ASF.zip
 cd /home/pi/Desktop
