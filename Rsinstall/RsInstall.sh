@@ -12,5 +12,5 @@ cd /home/pi/.jagex/runescape/images
 wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/Rsinstall/jagexappletviewer.png
 wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/Rsinstall/jagexappletvieweros.png
 cd /home/pi/Desktop
-wget https://github.com/MrHDR/RaspberryPi/raw/master/Rs3.desktop
-wget https://github.com/MrHDR/RaspberryPi/raw/master/OSRS.desktop
+wget https://github.com/MrHDR/RaspberryPi/raw/master/Rsinstall/Rs3.desktop
+wget https://github.com/MrHDR/RaspberryPi/raw/master/Rsinstall/OSRS.desktop
