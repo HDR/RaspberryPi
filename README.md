@@ -66,7 +66,7 @@ Geting errors? try running the following commands
 sudo apt-get update
 sudo apt-get install oracle-java8-jdk
 ```
-## [cpuled.py](https://github.com/MrHDR/RaspberryPi/raw/master/Blinkt/cpuled.py) (Does currently not update led's when temp changes.)
+## [cpuled.py](https://github.com/MrHDR/RaspberryPi/raw/master/Blinkt/cpuled.py) (Broken, Do not use)
 Utilizes [Blinkt](https://thepihut.com/products/blinkt) to display CPU Temperature in 8 stages using 8 RGB Led's
 
 Example:
