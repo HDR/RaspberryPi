@@ -18,7 +18,7 @@ Please note that it might take anything from 10-45 minutes to install.
 ## [RsInstall.sh](https://github.com/MrHDR/RaspberryPi/raw/master/Rsinstall/RsInstall.sh)
 Runescape Installer for the Raspberry Pi
 
-Warning: Rs3 will probably not work.(Limited Ram) OSRS However, will run on a Raspberry Pi 3B
+Warning: Rs3 will probably not work.(Transferring the cache from a java client on a pc will allow rs3 to run) OSRS However, will run on a Raspberry Pi 3B
 
 Downloads the files and launchers to quickly launch RS3 Or OSRS from the desktop (Raspbian Full Only)
 
