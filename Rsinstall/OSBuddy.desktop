@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=OSBuddy
+Comment=OSBuddy Launcher
+Exec=java -Xmx1024m -jar /home/pi/.osbuddy/updates/OSBuddy-48ca.jar
+Icon=/home/pi/.osbuddy/updates/osbuddy.png
+Terminal=false
