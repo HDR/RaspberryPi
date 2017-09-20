@@ -66,6 +66,18 @@ Geting errors? try running the following commands
 sudo apt-get update
 sudo apt-get install oracle-java8-jdk
 ```
+
+## [StreamToFM](https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/StreamToFM/install.sh)
+Allows streaming Internet Radio to FM using the raspberry pi.
+
+### Requirements:
+A wire on GPIO Pin 7
+
+### Usage (MP3 Streams)
+```
+sox -t mp3 ".m3u link" -r 22050 -c 1 -b 16 -t wav - | sudo ./fm_transmitter -f 103.3 -
+```
+
 ## [cpuled.py](https://github.com/MrHDR/RaspberryPi/raw/master/Blinkt/cpuled.py) (Broken, Do not use)
 Utilizes [Blinkt](https://thepihut.com/products/blinkt) to display CPU Temperature in 8 stages using 8 RGB Led's
 
