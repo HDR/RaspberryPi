@@ -73,7 +73,13 @@ Allows streaming Internet Radio to FM using the raspberry pi.
 ### Requirements:
 A wire on GPIO Pin 7
 
-### Usage (MP3 Streams)
+### Usage
+```
+wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/StreamToFM/install.sh
+sudo sh ./install.sh
+sudo rm install.sh
+```
+MP3 Streams
 ```
 sox -t mp3 ".m3u link" -r 22050 -c 1 -b 16 -t wav - | sudo ./fm_transmitter -f 103.3 -
 ```
