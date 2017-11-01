@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo apt-get install dialog
 sudo apt-get update | dialog --title "Updating Package database" --infobox "\nPlease wait\n" 5 50
 
 sudo apt-get -y install oracle-java8-jdk | dialog --title "Installing Java 8 JDK" --infobox "\nThis might take a while, please wait\n" 5 50
