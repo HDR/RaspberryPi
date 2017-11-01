@@ -1,20 +1,6 @@
 # RaspberryPi Scripts & Programs
 Random code for RaspberryPi related stuff
 
-## [ASF_Installer.sh](https://github.com/MrHDR/RaspberryPi/raw/master/ArchiSteamFarm/ASF_Installer.sh)
-[ArchiSteamFarm](https://github.com/JustArchi/ArchiSteamFarm) Installer for Raspbian Jessie Full
-
-Installs ArchiSteamFarm and adds desktop icons on your Raspberry pi.
-
-### Usage
-```
-wget https://github.com/MrHDR/RaspberryPi/raw/master/ArchiSteamFarm/ASF_Installer.sh
-sudo sh ./ASF_Installer.sh
-sudo rm ./ASF_Installer.sh
-```
-
-Please note that it might take anything from 10-45 minutes to install.
-
 ## [RsInstall.sh](https://github.com/MrHDR/RaspberryPi/raw/master/Rsinstall/RsInstall.sh)
 Runescape Installer for the Raspberry Pi
 
@@ -107,3 +93,18 @@ Example:
 7 Leds = Between 60 & 70 Celcius
 
 8 Leds = Above 70 Celcius
+
+## [ASF_Installer.sh](https://github.com/MrHDR/RaspberryPi/raw/master/ArchiSteamFarm/ASF_Installer.sh)
+[ArchiSteamFarm](https://github.com/JustArchi/ArchiSteamFarm) Installer for Raspbian Jessie Full
+
+Installs ArchiSteamFarm and adds desktop icons on your Raspberry pi.
+
+### Usage
+```
+wget https://github.com/MrHDR/RaspberryPi/raw/master/ArchiSteamFarm/ASF_Installer.sh
+sudo sh ./ASF_Installer.sh
+sudo rm ./ASF_Installer.sh
+```
+
+Please note that it might take anything from 10-45 minutes to install.
+
