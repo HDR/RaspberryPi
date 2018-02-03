@@ -108,3 +108,9 @@ sudo rm ./ASF_Installer.sh
 
 Please note that it might take anything from 10-45 minutes to install.
 
+
+## Raspbian SSH
+```
+ssh-keygen -t rsa
+cat ~/.ssh/id_rsa.pub >> .ssh/authorized_keys
+```
