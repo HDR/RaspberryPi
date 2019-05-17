@@ -6,22 +6,22 @@ sudo apt-get -y install oracle-java8-jdk | dialog --title "Installing Java 8 JDK
 
 dialog --title "Creating Folders" --infobox "\nPlease wait\n" 5 50
 
-mkdir /home/pi/.jagex_cache_32
-mkdir /home/pi/.jagex_cache_32/runescape
-mkdir /home/pi/.jagex
-mkdir /home/pi/.jagex/runescape
-mkdir /home/pi/.jagex/runescape/bin
-mkdir /home/pi/.jagex/runescape/images
+mkdir ~/.jagex_cache_32
+mkdir ~/.jagex_cache_32/runescape
+mkdir ~/.jagex
+mkdir ~/.jagex/runescape
+mkdir ~/.jagex/runescape/bin
+mkdir ~/.jagex/runescape/images
 
 dialog --title "Downloading & Installing Client" --infobox "\nPlease wait\n" 5 50
-cd /home/pi/.jagex/runescape/bin || exit
-wget https://github.com/MrHDR/RaspberryPi/raw/master/Rsinstall/jagexappletviewer.jar
-cd /home/pi/.jagex/runescape/images || exit
-wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/Rsinstall/jagexappletviewer.png
-wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/master/Rsinstall/jagexappletvieweros.png
-cd /home/pi/Desktop || exit
-wget https://github.com/MrHDR/RaspberryPi/raw/master/Rsinstall/Rs3.desktop
-wget https://github.com/MrHDR/RaspberryPi/raw/master/Rsinstall/OSRS.desktop
+cd JetsonNano/.jagex/runescape/bin || exit
+wget https://github.com/MrHDR/RaspberryPi/raw/JetsonNano/Rsinstall/jagexappletviewer.jar
+cd JetsonNano/.jagex/runescape/images || exit
+wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/JetsonNano/Rsinstall/jagexappletviewer.png
+wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/JetsonNano/Rsinstall/jagexappletvieweros.png
+cd JetsonNano/Desktop || exit
+wget https://github.com/MrHDR/RaspberryPi/raw/JetsonNano/Rsinstall/Rs3.desktop
+wget https://github.com/MrHDR/RaspberryPi/raw/JetsonNano/Rsinstall/OSRS.desktop
 
 dialog --title "Runescape Installed" --msgbox "\nYou can launch the game from the destkop\n" 10 30
 exit
