@@ -14,12 +14,12 @@ mkdir ~/.jagex/runescape/bin
 mkdir ~/.jagex/runescape/images
 
 dialog --title "Downloading & Installing Client" --infobox "\nPlease wait\n" 5 50
-cd JetsonNano/.jagex/runescape/bin || exit
+cd ~/.jagex/runescape/bin || exit
 wget https://github.com/MrHDR/RaspberryPi/raw/JetsonNano/Rsinstall/jagexappletviewer.jar
-cd JetsonNano/.jagex/runescape/images || exit
+cd ~/.jagex/runescape/images || exit
 wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/JetsonNano/Rsinstall/jagexappletviewer.png
 wget https://raw.githubusercontent.com/MrHDR/RaspberryPi/JetsonNano/Rsinstall/jagexappletvieweros.png
-cd JetsonNano/Desktop || exit
+cd ~/Desktop || exit
 wget https://github.com/MrHDR/RaspberryPi/raw/JetsonNano/Rsinstall/Rs3.desktop
 wget https://github.com/MrHDR/RaspberryPi/raw/JetsonNano/Rsinstall/OSRS.desktop
 
