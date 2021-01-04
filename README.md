@@ -4,7 +4,7 @@ Random code for RaspberryPi related stuff
 ## [RsInstall.sh](https://github.com/MrHDR/RaspberryPi/raw/master/Rsinstall/RsInstall.sh)
 Runescape Installer for the Raspberry Pi
 
-Warning: Rs3 will probably not work.(Transferring the cache from a java client on a pc will allow rs3 to run) OSRS However, will run on a Raspberry Pi 3B
+Note: RS3 no longer works, as the java client was discontinued.
 
 Downloads the files and launchers to quickly launch RS3 Or OSRS from the desktop (Raspbian Full Only)
 
